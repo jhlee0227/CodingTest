@@ -73,3 +73,7 @@
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+
+### 풀이 과정
+Integer.parseInt(문자열, 진수)
+Integer.toBinaryString()을 쓰면 간단한 문제
